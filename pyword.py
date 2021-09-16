@@ -1,0 +1,15 @@
+hints={"indentation":'I am spacing technique.'
+,"syntax":'If I am wrong you get an error.'
+,"for":'I am type of loop statement.'
+,"while":'I am type of loop statement.'
+,"recursion":'I am a method of repeatedly executing a function.'
+,"pycharm":'I am an IDE to practice python.'
+,"if":'I am a type of conditional statement.'
+,"else":'I am a type of conditional statement.'
+,"elif":'I am a type of conditional statement.'
+,"dictionary":'I am a datatype enclosed in {}.'
+,"frozenset":'I am a datatype enclosed in (). I am a type of set.'
+,"tuple":'I am a datatype enclosed in ().'
+,"string":'I am a datatype enclosed in "".'
+,"list":'I am a datatype enclosed in [].'}
+words=list(hints.keys())
